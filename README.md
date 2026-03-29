@@ -150,14 +150,13 @@ Page refresh is mainly used in Direct Query Mode.
 
 ## 📸 Screenshots  
 
-`screenshots/`
+[screenshots](screenshots/)
 
 ---
 
 ## 📁 Resources  
 
-`resources/`
-
+[resources](resources/)
 ---
 
 ## 🔗 Previous Project  
