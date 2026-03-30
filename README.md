@@ -42,7 +42,8 @@ Page refresh is mainly used in Direct Query Mode.
 ## ⚡ Direct Query Mode vs Import Mode  
 
 ![Direct Query Mode](screenshots/Direct%20Query%20Mode.png)  
-![Import Mode](screenshots/Import%20Mode.png)
+
+---
 
 ### 🔹 Import Mode  
 - Data is copied into Power BI  
@@ -88,6 +89,8 @@ Page refresh is mainly used in Direct Query Mode.
 
 ### 1. Google Sheets  
 ![Google Sheets](screenshots/Google%20Sheets.png)  
+- Used to store data online
+- Used to send data live to other sources using google apps scripter
 
 ### 2. SQL Server (SSMS)  
 ![SSMS](screenshots/SSMS.png)  
